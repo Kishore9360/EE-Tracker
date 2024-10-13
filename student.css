@@ -1,0 +1,42 @@
+.form{
+    text-align: center;
+    margin-top: 150px;
+    margin-right: 350px;
+    margin-left: 300px;
+    background-color: aliceblue;
+    padding: 40px;
+  }
+
+  .color{
+    co
+  }
+  
+  body{
+    background-image: url(images\ \(5\).jfif);
+    background-position: center;
+    font-size: x-large; 
+  }
+  
+  .logo i{
+    font-size:60px;
+  }
+  
+  .form p{
+    display:inline;
+    margin-left:40px;
+    color:white;
+  }
+  
+  .form i{
+    margin-right:10px;
+  }
+  
+  .sub button{
+    color: white;
+    background-color: firebrick;
+  }
+  
+  .file input{
+    margin-left: 50px;
+  }
+  
